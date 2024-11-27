@@ -49,7 +49,7 @@ jupyter==1.0.0
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your_username/translation-app.git
+   git clone https://github.com/dhruvjverma/NLLB-Translator
    cd translation-app
    ```
 
